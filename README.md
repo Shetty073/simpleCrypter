@@ -13,6 +13,6 @@ A simple text cipher program, written in Python, which uses [Caesar cipher](http
 #### Changelog for v2.0
 * GUI added using easyGUI
 
-###### At the time I added GUI I was not familiar with Tkinter. But now I am, hence I will be updating this code to use Tkinter.
+###### At the time when I added GUI I was not familiar with Tkinter. But now I am, hence I will be updating this code to use Tkinter.
 
 ## I love Python.. :)
