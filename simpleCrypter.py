@@ -1,4 +1,4 @@
-#@author: AlphaSierraASH
+#@author: Ashish Shetty
 #@version: 2.0
 
 from easygui import *
